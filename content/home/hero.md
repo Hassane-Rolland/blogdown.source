@@ -27,7 +27,7 @@ weight = 3
 
 Hassane Rolland
 <br>
-<small>A short description of myself here</small>
+<small>Biology student at UMONS, Belgium</small>
 <br><br>
 
 <script type="text/javascript">

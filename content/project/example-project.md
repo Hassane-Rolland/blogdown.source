@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
-caption = "Image credit: **Trevor Cole** on Unsplash"
+image = "headers/bug.jpg"
+caption = "Photo by TexasEagle licensed CC BY-NC 2.0"
 +++
 
 Here I describe my project using Markdown formatting...

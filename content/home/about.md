@@ -37,4 +37,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am student at the University of Mons, Belgium. I'm currently studying Biology, I would like to improve my knowldege in general biology but more specificially in animal biology and animal behaviour. 
