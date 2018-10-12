@@ -7,8 +7,8 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/main-header.jpg"
-caption = "Image credit: [**Kevin Phillips**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
+image = "headers/bird.jpg"
+caption = "Image credit: [** Denis Fournier**]"
 +++
 
 Here is a list of all the content that has been tagged as *academic*.
