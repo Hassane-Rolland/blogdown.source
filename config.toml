@@ -1,4 +1,4 @@
-#baseurl = "https://Hassane-Rolland.github.io/"
+baseurl = "https://Hassane-Rolland.github.io/"
 title = "Hassane Rolland"
 copyright = "&copy; 2018 Hassane Rolland (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
 theme = "hugo-academic"
