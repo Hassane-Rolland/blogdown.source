@@ -8,7 +8,7 @@ highlight = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bird.jpg"
-caption = "Image credit: [** Denis Fournier**]"
+caption = "Image credit: []"
 +++
 
 Here is a list of all the content that has been tagged as *academic*.

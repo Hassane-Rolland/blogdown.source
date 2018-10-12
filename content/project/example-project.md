@@ -9,7 +9,7 @@ title = "My project"
 summary = "A short summary of my project."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "vulture.jpg"
+image_preview = "spider.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bug.jpg"
-caption = "Photo by TexasEagle licensed CC BY-NC 2.0"
+image = "headers/elephant.jpg"
+caption = ""
 +++
 
 Here I describe my project using Markdown formatting...
