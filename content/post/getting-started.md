@@ -3,10 +3,10 @@ date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "hugo"]
-title = "Mon premier blog"
+title = "Markdown test"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+This is a Markdown test. I am trying to create a table comparing eukaryotic and prokaryotic cells using Markdown
 """
 
 [header]
@@ -16,8 +16,15 @@ preview = false
 
 +++
 
-Le contenu ici
+Quick test
 
-## Un titre
+## Comparative table 
 
-Du texte **avec une partie en gras**...
+
+|              | Eukaryotic cell | Prokaryotic cell |
+| ------------ | --------------- | ---------------- |
+| Nucleus      | Present         | Absent           |
+| Mitochondria | Present         | Absent           |
+| Example      | Humans          | Bacteria         |
+
+This table could be better, longer and more complete but this is **just a test**
