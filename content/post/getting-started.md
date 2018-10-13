@@ -27,4 +27,4 @@ Quick test
 | Mitochondria | Present         | Absent           |
 | Example      | Humans          | Bacteria         |
 
-This table could be better, longer and more complete but this is **just a test**
+**This table could be better, <span style="color:grey">longer</span> and <span style="color:grey">more complete</span> but this is <span style="color:grey">just a test</span>**
