@@ -1,6 +1,6 @@
 +++
 date = 2016-04-20
-lastmod = 2018-09-20
+lastmod = 2018-10-13
 draft = false
 tags = ["academic", "hugo"]
 title = "Markdown test"
@@ -11,7 +11,7 @@ This is a Markdown test. I am trying to create a table comparing eukaryotic and 
 
 [header]
 image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
+caption = ""
 preview = false
 
 +++
