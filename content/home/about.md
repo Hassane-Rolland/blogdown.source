@@ -29,9 +29,9 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
-  year = 2018
+  course = "Upper secondary school certificate"
+  institution = "Athénée Royal Vauban, Charleroi, Belgium"
+  year = 2017
 
 +++
 
